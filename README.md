@@ -2,9 +2,6 @@
 
 Proyek ini adalah submission untuk kelas **Belajar Machine Learning untuk Pemula** oleh Dicoding. Tujuannya adalah membangun sebuah model deep learning untuk mengklasifikasikan gambar pemandangan alam ke dalam enam kategori berbeda. Model ini dibangun menggunakan teknik **Transfer Learning** dengan memanfaatkan arsitektur **MobileNetV2**.
 
-![Hasil Prediksi Model](https://i.imgur.com/gCh1N5p.png) 
-*Contoh hasil prediksi model pada gambar test.*
-
 ---
 
 ## 📚 Detail Proyek
@@ -29,30 +26,15 @@ Proyek ini dibangun menggunakan Python dengan beberapa library utama:
 
 ---
 
-## 📊 Hasil Model
-
-Model berhasil mencapai target akurasi yang ditetapkan. Berikut adalah ringkasan performa pada data training, validasi, dan testing:
-
-| Data Set      | Akurasi     | Loss       |
-|---------------|-------------|------------|
-| **Training** | ~XX.XX%     | ~X.XXXX    |
-| **Validation**| ~XX.XX%     | ~X.XXXX    |
-| **Testing** | **~XX.XX%** | **~X.XXXX**|
-
-*Catatan: Ganti nilai `XX.XX%` dengan hasil akurasi dan loss akhir dari notebook Anda.*
-
----
-
 ## 🚀 Cara Menjalankan
 
 Untuk menjalankan proyek ini di lingkungan Anda sendiri, ikuti langkah-langkah berikut:
 
 1.  **Clone Repository**
     ```sh
-    git clone [https://github.com/NAMA_USER/NAMA_REPO.git](https://github.com/NAMA_USER/NAMA_REPO.git)
+    git clone [https://github.com/klissh/notebook-intel-image-classification.git](https://github.com/klissh/notebook-intel-image-classification.git)
     cd NAMA_REPO
     ```
-    *Ganti `NAMA_USER` dan `NAMA_REPO` dengan username dan nama repository GitHub Anda.*
 
 2.  **Buat Virtual Environment** (Opsional tapi direkomendasikan)
     ```sh
